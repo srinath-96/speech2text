@@ -1,4 +1,2 @@
-build-essential
-libasound-dev
-portaudio19-dev
-python3-pyaudio
+portaudio19-dev 
+python3-all-dev
