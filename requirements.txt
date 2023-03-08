@@ -1,2 +1,4 @@
 requests
 streamlit
+pyaudio
+base64
