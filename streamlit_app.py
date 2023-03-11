@@ -32,8 +32,7 @@ def _max_width_():
 _max_width_()
 
 # logo and header -------------------------------------------------
-
- c31, c32 = st.columns([ 1, 3])
+c31, c32 = st.columns([ 1, 3])
 
 
 with c32:
