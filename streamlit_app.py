@@ -33,11 +33,8 @@ _max_width_()
 
 # logo and header -------------------------------------------------
 
-c30, c31, c32 = st.columns([2.5, 1, 3])
+ c31, c32 = st.columns([ 1, 3])
 
-with c30:
-    st.image(r"C:\Users\Dell\Desktop\speech-to-text-streamlit-app-main\logo.png", width=700)
-    st.header("")
 
 with c32:
 
